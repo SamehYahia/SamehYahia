@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **freelance**
 
-- 🌱 I’m currently learning **Linux, Docker , bash ,python scrip**
+- 🌱 I’m currently learning **Linux, Docker , bash ,python script**
 
 - 💬 Ask me about **Linux**
 
