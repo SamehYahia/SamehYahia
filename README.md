@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sameh Yahia</h1>
 <h3 align="center">DevOps Engineer</h3>
 
-- 🔭 I’m currently working on **freelance**
+- 🔭 I’m currently working in **https://thetailorsdev.com/**
 
-- 🌱 I’m currently learning **Linux, Docker , bash ,python script**
+- 🌱 I’m currently learning **Linux, Docker , bash ,python script, K8S ,Ansible, AWS**
 
 - 📫 How to reach me **www.linkedin.com/in/sameh-yahia-8a8846243**
 
