@@ -1,16 +1,141 @@
 <h1 align="center">Hi 👋, I'm Sameh Yahia</h1>
-<h3 align="center">DevOps Engineer</h3>
 
-- 🔭 I’m currently working in **https://thetailorsdev.com/**
+<h3 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Cloud+Engineer;AWS+Cloud+Practitioner;Kubernetes+Administrator;Terraform+Infrastructure+Engineer;CI%2FCD+Automation+Engineer;DevSecOps+Enthusiast;Linux+System+Administrator" alt="Typing SVG" />
+</h3>
 
-- 🌱 I’m currently learning **Linux, Docker , bash ,python script, K8S ,Ansible, AWS**
-
-- 📫 How to reach me **www.linkedin.com/in/sameh-yahia-8a8846243**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sameh-yahia-8a8846243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sameh-yahia-8a8846243" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sameh-yahia/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sameh%20Yahia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samehyahia&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+---
+
+## About Me
+
+- 🔭 Currently working at **The Tailors Dev**
+- 🌱 Currently learning **Linux, Docker, Kubernetes, Terraform, Ansible, Python, Bash, AWS**
+- 💬 Ask me about **Linux, Docker, Kubernetes, AWS, GitHub Actions, Terraform**
+- 📫 Reach me on **LinkedIn**
+- ⚡ Passionate about **Cloud Computing, DevOps, Automation, and DevSecOps**
+
+---
+
+## Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sameh-yahia/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+</p>
+
+---
+
+## Languages & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,linux,bash,python,git,github,jenkins,postgres,nginx,prometheus,grafana,vscode&perline=9" />
+</p>
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samehyahia&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samehyahia&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=samehyahia&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## Featured Projects
+
+- 🚀 Terraform AWS High Availability Kubernetes Cluster
+- ☁️ DevSecOps EKS Pipeline
+- 🐳 Secure Docker Deployment on AWS
+- ⚙️ 3-Tier Docker Application
+- 🔄 GitHub Actions CI/CD Pipeline
+- 📊 Kubernetes Monitoring Stack (Prometheus & Grafana)
+
+---
+
+## DevOps Roadmap
+
+```text
+                DevOps Journey
+
+ Linux
+    │
+    ▼
+ Bash & Python
+    │
+    ▼
+ Git & GitHub
+    │
+    ▼
+ Docker
+    │
+    ▼
+ Kubernetes
+    │
+    ▼
+ Terraform
+    │
+    ▼
+ Ansible
+    │
+    ▼
+ AWS Cloud
+    │
+    ▼
+ CI/CD Pipelines
+    │
+    ▼
+ GitOps
+    │
+    ▼
+ DevSecOps
+```
+
+---
+
+## GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samehyahia&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=samehyahia&theme=onedark&no-frame=true&row=2&column=4"/>
+</p>
+
+---
+
+## Quote
+
+<p align="center">
+<i>"Automate everything. Secure by design. Scale with confidence."</i>
+</p>
+
+---
+
+<p align="center">
+⭐ If you like my work, consider giving a star to my repositories!
+</p>
