@@ -47,18 +47,15 @@
 ## GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samehyahia&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samehyahia&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamehYahia&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamehYahia&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
-
 ---
 
 ## GitHub Streak
-
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=samehyahia&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=SamehYahia&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 
 ## Featured Projects
@@ -115,15 +112,14 @@
 ## GitHub Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samehyahia&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamehYahia&theme=tokyo-night&hide_border=true"/>
 </p>
-
 ---
 
 ## GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=samehyahia&theme=onedark&no-frame=true&row=2&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SamehYahia&theme=tokyonight&no-frame=true&row=2&column=4"/>
 </p>
 
 ---
