@@ -18,7 +18,7 @@
 
 # 👨‍💻 About Me
 
-- 💼 Junior DevOps Engineer at **The Tailors Dev**
+- 💼 Junior DevOps Engineer | AWS | Kubernetes | Docker | Terraform | CI/CD
 - ☁️ Passionate about Cloud Infrastructure, Kubernetes and DevSecOps
 - 🌱 Currently deep-diving into AWS, Kubernetes, Terraform, Ansible and GitOps
 - 🚀 Interested in building scalable, secure and production-grade cloud platforms
