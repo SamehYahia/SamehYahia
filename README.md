@@ -1,187 +1,83 @@
-<h1 align="center">Hi 👋, I'm Sameh Yahia</h1>
-
-<h3 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Cloud+Engineer;AWS+Cloud+Practitioner;Kubernetes+Administrator;Terraform+Infrastructure+Engineer;CI%2FCD+Automation+Engineer;DevSecOps+Enthusiast;Linux+System+Administrator" alt="Typing SVG"/>
-</h3>
+<h1 align="center">Sameh Yahia</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sameh-yahia-8a8846243/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Sameh%20Yahia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <strong>DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD Automation</strong>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=SamehYahia&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <a href="https://www.linkedin.com/in/sameh-yahia/">LinkedIn</a>
 </p>
 
----
+About
 
-# 👨‍💻 About Me
+DevOps Engineer focused on cloud infrastructure, container orchestration, Infrastructure as Code, and secure software delivery.
 
-- 💼 Junior DevOps Engineer | AWS | Kubernetes | Docker | Terraform | CI/CD
-- ☁️ Passionate about Cloud Infrastructure, Kubernetes and DevSecOps
-- 🌱 Currently deep-diving into AWS, Kubernetes, Terraform, Ansible and GitOps
-- 🚀 Interested in building scalable, secure and production-grade cloud platforms
-- 💬 Ask me about Linux, Docker, Kubernetes, Terraform, AWS and GitHub Actions
+I build hands-on projects around AWS, Linux, Docker, Kubernetes, Terraform, CI/CD, and DevSecOps practices, with an emphasis on automation, reliability, security, and clear technical documentation.
 
----
+Core Stack
 
-# 🌐 Connect With Me
+Cloud: AWS
 
-<p>
-<a href="https://www.linkedin.com/in/sameh-yahia-8a8846243/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-</p>
+Containers & Platforms: Docker, Docker Compose, Kubernetes, Helm, OpenShift
 
----
+Infrastructure as Code & Automation: Terraform, Ansible, Bash, Python
 
-# ⚙️ Tech Stack
+CI/CD & DevSecOps: GitHub Actions, GitLab CI, Jenkins, SonarQube, Trivy, Gitleaks, HashiCorp Vault
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,linux,bash,python,git,github,jenkins,postgres,nginx,prometheus,grafana,vscode&perline=8"/>
-</p>
+Observability: Prometheus, Grafana
 
----
+Systems & Services: Linux, Nginx, PostgreSQL
 
-# 📈 GitHub Streak
+Selected Projects
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=SamehYahia&theme=tokyonight&hide_border=true"/>
-</p>
+Terraform AWS Kubeadm Cluster
 
----
+Multi-AZ Kubernetes infrastructure on AWS provisioned with Terraform and bootstrapped using kubeadm.
 
-# 🚀 Featured Projects
+Built reusable Terraform configuration for VPC networking, EC2, IAM, security groups, load balancing, DNS, and monitoring.
 
-## ☁️ Terraform AWS High Availability Kubernetes Platform
+Automated node provisioning and cluster bootstrap with cloud-init, containerd, Calico, and AWS Systems Manager.
 
-**Production-grade Kubernetes infrastructure built on AWS using Terraform and kubeadm.**
+Kept cluster nodes private, enforced IMDSv2, and encrypted EBS volumes.
 
-- Designed a highly available Kubernetes platform with multiple Control Plane and Worker Nodes.
-- Built reusable Terraform modules for networking, compute, IAM and Kubernetes infrastructure.
-- Implemented production-ready AWS networking using VPC, Public & Private Subnets, NAT Gateway, Route Tables and Security Groups.
-- Configured Application Load Balancer (ALB) for application traffic and Network Load Balancer (NLB) for Kubernetes API access.
-- Configured kubeadm-based Highly Available Control Plane with external load balancing.
-- Enabled secure administration using AWS Systems Manager (SSM) without exposing EC2 instances.
-- Applied Infrastructure as Code principles for repeatable and consistent deployments.
-- Designed the platform with scalability, resilience and operational best practices.
+Stack: AWS, Terraform, Kubernetes, kubeadm, containerd, Calico, HAProxy, SSM
 
-**Tech Stack**
+DevSecOps EKS Delivery Platform
 
-Terraform • Kubernetes • AWS • EC2 • VPC • ALB • NLB • IAM • SSM • Linux
+Team project for securely building and delivering containerized workloads to Amazon EKS.
 
----
+Contributed SonarQube quality gates and Trivy container-image scanning to the GitLab CI/CD pipeline.
 
-## 🔐 DevSecOps Delivery Platform
+Integrated the delivery flow with Amazon ECR, Helm, Vault, Velero, Prometheus, and Grafana.
 
-**End-to-end secure CI/CD platform for Kubernetes workloads.**
+Used a manual approval gate before deployment to the Kubernetes environment.
 
-- Designed automated CI/CD pipelines using GitHub Actions.
-- Integrated SonarQube, Trivy and Gitleaks into the software delivery lifecycle.
-- Automated Docker image build, vulnerability scanning and deployment.
-- Packaged applications with Helm and deployed them to Kubernetes.
-- Managed secrets using HashiCorp Vault.
-- Implemented GitOps-oriented deployment workflows.
-- Added monitoring using Prometheus and Grafana.
-- Applied DevSecOps best practices across the deployment pipeline.
+Stack: AWS EKS, Terraform, GitLab CI, Docker, Helm, SonarQube, Trivy, Vault
 
----
+VProfile Secure Docker Deployment on AWS
 
-## 🐳 Secure Dockerized VProfile Platform
+Security-focused Docker Compose deployment for a multi-service Java application on AWS.
 
-**Production-ready containerized Java application deployment.**
+Containerized Tomcat, MySQL, RabbitMQ, Memcached, and Elasticsearch.
 
-- Designed a secure multi-container Docker Compose architecture.
-- Containerized Tomcat, MySQL, RabbitMQ and Memcached services.
-- Configured isolated Docker networks and persistent storage.
-- Optimized Docker images using multi-stage builds.
-- Externalized application configuration using environment variables.
-- Applied container hardening and deployment best practices.
-- Simplified application deployment through Docker Compose orchestration.
+Applied non-root execution, read-only filesystems, dropped capabilities, health checks, resource limits, and isolated backend networking.
 
----
+Exposed the application through an AWS Application Load Balancer while keeping the Docker host private.
 
-## ☸️ Kubernetes Cluster Implementation
+Stack: AWS, Docker, Docker Compose, Tomcat, MySQL, RabbitMQ, Memcached, Elasticsearch
 
-**Production-oriented Kubernetes cluster deployment using kubeadm.**
+Additional Labs
 
-- Provisioned Kubernetes clusters using kubeadm.
-- Configured Linux kernel modules, networking and container runtime.
-- Deployed workloads using Deployments, Services, Ingress, ConfigMaps and Secrets.
-- Managed rolling updates and application scaling.
-- Troubleshot cluster networking, scheduling and DNS issues.
-- Performed day-to-day Kubernetes administration using kubectl.
+Kubernetes Cluster Setup: Ubuntu Control Plane and Rocky Linux Workers
 
----
+Three-Tier Node.js Application with Docker Compose
 
-## ⚙️ CI/CD Automation Platform
+Secure Containerized Flask Calculator
 
-**Automated software delivery workflows.**
+Current Focus
 
-- Built GitHub Actions workflows for build, testing and deployment.
-- Automated Docker image creation and publishing.
-- Integrated Terraform validation into deployment pipelines.
-- Improved deployment consistency through automation.
-- Standardized CI/CD workflows across projects.
+AWS cloud architecture, Kubernetes administration, OpenShift, GitOps, infrastructure automation, and secure CI/CD pipelines.
 
----
+Connect
 
-## 📊 Kubernetes Monitoring Platform
-
-**Monitoring and observability stack.**
-
-- Implemented Prometheus metrics collection.
-- Built Grafana dashboards for infrastructure visibility.
-- Configured monitoring for Kubernetes workloads.
-- Improved operational visibility through centralized metrics.
-
----
-
-# 🛣️ DevOps Roadmap
-
-```text
-Linux
-   │
-Bash & Python
-   │
-Git & GitHub
-   │
-Docker
-   │
-Kubernetes
-   │
-Terraform
-   │
-Ansible
-   │
-AWS
-   │
-CI/CD
-   │
-GitOps
-   │
-DevSecOps
-```
-
----
-
-# 📊 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamehYahia&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-
-### "Automate Everything • Secure by Design • Scale with Confidence"
-
-</p>
-
----
-
-<p align="center">
-⭐ Thanks for visiting my profile!
-</p>
+LinkedIn
